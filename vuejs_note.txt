@@ -11,3 +11,5 @@ npm install
 6. jalankan
 npm run dev
 maka akan terbuka sebuah tab baru
+
+https://www.tutorialspoint.com/vuejs/index.htm

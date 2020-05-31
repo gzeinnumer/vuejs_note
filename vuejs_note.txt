@@ -1,0 +1,13 @@
+1. download node.js
+https://nodejs.org/en/
+2. buka cmd, bisa dimana saja, dan jalan kan
+npm install -g vue-cli
+3. pergi kedirektory yang kamu mau
+vue init webpack-simple new-project
+4. cd ke project 
+cd new-project
+5. jalankan 
+npm install
+6. jalankan
+npm run dev
+maka akan terbuka sebuah tab baru
